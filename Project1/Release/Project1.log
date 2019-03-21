@@ -1,0 +1,39 @@
+﻿  main.cpp
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(171): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(172): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(180): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(181): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(197): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(198): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(200): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(201): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(203): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(204): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(206): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(207): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(209): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(210): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(274): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(275): warning C4018: '<': signed/unsigned mismatch
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Filter.h(279): warning C4018: '<': signed/unsigned mismatch
+..\main.cpp(41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(62): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+..\main.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\main.cpp(120): warning C4018: '<': signed/unsigned mismatch
+..\main.cpp(134): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Array.h(66): warning C4018: '<': signed/unsigned mismatch
+  d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Array.h(62): note: while compiling class template member function 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)'
+  d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Image.h(34): note: see reference to function template instantiation 'math::Array<math::Vec3<float>>::Array(const math::Array<math::Vec3<float>> &)' being compiled
+  d:\documents\visual studio 2015\projects\1stassg_3160069_3160049\2ndassg_3160069_3160049\project1\Image.h(26): note: see reference to class template instantiation 'math::Array<math::Vec3<float>>' being compiled
+  Generating code
+  1 of 516 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> D:\Documents\Visual Studio 2015\Projects\1stASSG_3160069_3160049\2ndASSG_3160069_3160049\Project1\Release\filter.exe
+  Project1.vcxproj -> D:\Documents\Visual Studio 2015\Projects\1stASSG_3160069_3160049\2ndASSG_3160069_3160049\Project1\Release\filter.pdb (Full PDB)
