@@ -9,7 +9,9 @@ University C++ project. The assignment is in Greek and can be found [here](CPP20
 |FilterBlur|blur|N|
 |FilterLaplace|laplace|NULL|
 
+*Notice: This is the whole Visual Studio Project. I recommend opening it using the .sln file.
+
 ## How to run the program
-1. Run cmd on the folder the .exe is located (needs compilation first).
+1. Run cmd on the folder the .exe is located (Release folder).
 2. On cmd enter the following: filter -f [Filter ID #1][Parameters] ... -f[Filter ID #k][Parameters][filename]  
 (example: > filter -f gamma 2.0 -f gamma 0.5 image01.ppm)
