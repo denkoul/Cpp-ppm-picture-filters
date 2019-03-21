@@ -14,4 +14,4 @@ University C++ project. The assignment is in Greek and can be found [here](CPP20
 2. On cmd enter the following: filter -f [Filter ID #1][Parameters] ... -f[Filter ID #k][Parameters][filename]  
 (example: > filter -f gamma 2.0 -f gamma 0.5 image01.ppm)
 
-*Notice: This a the whole Visual Studio Project. I recommend opening it using the .sln file.*
+*Notice: This is a Visual Studio Project. I recommend opening it using the .sln file.*
